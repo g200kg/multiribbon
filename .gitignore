@@ -2,6 +2,8 @@
 *.mov
 ~$*.*
 *.blend1
+*.bak
+*.*-bak
 
 # Prerequisites
 *.d

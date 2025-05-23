@@ -1,4 +1,7 @@
 *-backups/
+*.mov
+~$*.*
+*.blend1
 
 # Prerequisites
 *.d
